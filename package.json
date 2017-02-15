@@ -1,0 +1,26 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "##Directory Setup",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laura333/js-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laura333/js-unit-testing/issues"
+  },
+  "homepage": "https://github.com/laura333/js-unit-testing#readme"
+}
